@@ -132,3 +132,6 @@ dmypy.json
 # for jpg and zip ignore
 *.jpg
 *.zip
+artifacts/prepare_base_model/base_model_updated.h5
+artifacts/prepare_base_model/base_model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-10-09-17-07-43/train/events.out.tfevents.1665315474.LAPTOP-DUKUB44T.15112.0.v2
